@@ -1,0 +1,16 @@
+header {
+    background-color: mediumaquamarine;
+    padding: 2vh;
+    text-align: center;
+    font-family: 'Futura'
+}
+
+h3 {
+    font-family: 'Futura';
+    padding-top: 15px;
+    text-decoration: underline;
+    font-size: 22px;}
+
+.searchBar {
+    padding-top: 30px;
+}
